@@ -54,22 +54,18 @@ To run the example script, download or clone the repo and then type the followin
 
 ## Install
 
-Use the stable version:
-```
-yarn add @whiskeysockets/baileys
-```
+Install DrenoxBaileys26 using npm:
 
-Use the edge version (no guarantee of stability, but latest fixes + features)
-```
-yarn add github:WhiskeySockets/Baileys
-```
+```npm install drenoxbaileys26```
 
-Then import your code using:
-```ts
-import makeWASocket from '@whiskeysockets/baileys'
-```
+Usage (CommonJS)
 
-# Links
+```const makeWASocket = require('drenoxbaileys26');```
+
+Usage (ES Modules)
+
+```import makeWASocket from 'drenoxbaileys26';```
+# 
 
 - [Discord](https://discord.gg/WeJM5FP9GG)
 - [Docs](https://baileys.wiki/docs/intro/)
