@@ -1,0 +1,7 @@
+node-modules/
+.env
+.env.*
+auth_info/
+session/
+creds.json
+*.log
