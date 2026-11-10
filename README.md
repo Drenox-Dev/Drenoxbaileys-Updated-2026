@@ -56,15 +56,15 @@ To run the example script, download or clone the repo and then type the followin
 
 Install DrenoxBaileys26 using npm:
 
-```npm install drenoxbaileys26```
+```npm install @whiskeysockets/baileys@npm:drenoxbaileys26@^.0.0```
 
 Usage (CommonJS)
 
-```const makeWASocket = require('drenoxbaileys26');```
+```const makeWASocket = require('@whiskeysockets/baileys');```
 
 Usage (ES Modules)
 
-```import makeWASocket from 'drenoxbaileys26';```
+```import makeWASocket from '@whiskeysockets/baileys';```
 # 
 
 - [Discord](https://discord.gg/WeJM5FP9GG)
